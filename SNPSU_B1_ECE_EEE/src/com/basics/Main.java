@@ -13,5 +13,6 @@ public class Main {
         int r3 = (2 > 3) ? 1 : 0;
         System.out.println(r1 + " " + r2 + " " + r3);
         System.out.println((2 > 3) ? 'T' : 'F');
+        
     }
 }
