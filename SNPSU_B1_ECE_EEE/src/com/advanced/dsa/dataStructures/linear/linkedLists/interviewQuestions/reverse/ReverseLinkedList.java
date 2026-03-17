@@ -1,5 +1,4 @@
 package com.advanced.dsa.dataStructures.linear.linkedLists.interviewQuestions.reverse;
-
 import java.util.Scanner;
 
 class Node {
